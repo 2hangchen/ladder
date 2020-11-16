@@ -4,13 +4,17 @@
 。
 #### 梯子约拍V1.0.0已开发完成上线，欢迎感兴趣的朋友一起加入我们。
 
+#### 加入我们
+  Wechat：ispg-zc
+  QQ：85749695
+
 #### UI（部分）或微信搜索小程序“梯子约拍”体验（暂时停服）
 ![image](https://github.com/unidbaas/ladder/blob/main/ui/引导页.png)
 ![image](https://github.com/unidbaas/ladder/blob/main/ui/首页.png)
 ![image](https://github.com/unidbaas/ladder/blob/main/ui/广场.png)
 ![image](https://github.com/unidbaas/ladder/blob/main/ui/消息.png)
 ![image](https://github.com/unidbaas/ladder/blob/main/ui/约拍发布.png)
-![image](https://github.com/unidbaas/ladder/blob/main/ui/市民认证页面.png)
+![image](https://github.com/unidbaas/ladder/blob/main/ui/实名认证页面.png)
 ![image](https://github.com/unidbaas/ladder/blob/main/ui/实名认证.png)
 ![image](https://github.com/unidbaas/ladder/blob/main/ui/身份认证.png)
 ![image](https://github.com/unidbaas/ladder/blob/main/ui/消息.png)
