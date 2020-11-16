@@ -5,4 +5,4 @@
 #### 梯子约拍V1.0.0已开发完成上线，欢迎感兴趣的朋友一起加入我们。
 
 #### UI（部分）或微信搜索小程序“梯子约拍”体验（暂时停服）
-![image](https://github.com/unidbaas/ladder/blob/main/ui/%E4%B8%AA%E4%BA%BA%E9%A1%B5%E9%9D%A2.png)
+![image](https://github.com/unidbaas/ladder/blob/main/ui/引导页.png)
