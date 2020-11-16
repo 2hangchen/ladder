@@ -9,7 +9,6 @@
 
 #### UI（部分）或微信搜索小程序“梯子约拍”体验（暂时停服）
 ![image](https://github.com/unidbaas/ladder/blob/main/ui/引导页.png)
-![image](https://github.com/unidbaas/ladder/blob/main/ui/首页.png)
 ![image](https://github.com/unidbaas/ladder/blob/main/ui/广场.png)
 ![image](https://github.com/unidbaas/ladder/blob/main/ui/消息.png)
 ![image](https://github.com/unidbaas/ladder/blob/main/ui/约拍发布.png)
